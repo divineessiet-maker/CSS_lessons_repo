@@ -1,3 +1,19 @@
 .container p{
-    color:blue
+    color:rgba(187, 12, 35, 0.89)
+}
+
+.card .content p{
+    font-size: 24px;
+    color: red;
+font-weight: bolder;
+}
+p{
+    color: forestgreen
+}
+
+#sure{
+    color: purple
+}
+.class{
+    color:red 
 }
