@@ -1,5 +1,12 @@
+body{
+    background-color:yellow;
+}
+h2 {
+    text-align: center;
+    color: red;
+}
 .container p{
-    color:rgba(187, 12, 35, 0.89)
+    color:red;
 }
 
 .card .content p{
@@ -7,13 +14,6 @@
     color: red;
 font-weight: bolder;
 }
-p{
-    color: forestgreen
-}
-
-#sure{
-    color: purple
-}
-.class{
-    color:red 
+.container > p, ul li > p{ 
+    color: red;
 }
