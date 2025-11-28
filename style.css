@@ -5,6 +5,10 @@ h2 {
     text-align: center;
     color: red;
 }
+h3 {
+    text-align: center;
+    color:red;
+}
 .container p{
     color:red;
 }
@@ -14,6 +18,14 @@ h2 {
     color: red;
 font-weight: bolder;
 }
-.container > p, ul li > p{ 
+.container > p, ul li > p{    
     color: red;
+}
+h2 + p, p , p, div{
+    color:red;
+    font-weight: bolder;
+}
+h2 ~ p{
+    color:red;
+     font-style: italic;
 }
