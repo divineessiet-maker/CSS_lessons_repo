@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color:yellow;
 }
 h2 {
@@ -28,4 +28,13 @@ h2 + p, p , p, div{
 h2 ~ p{
     color:red;
      font-style: italic;
-}
+} */
+ /* **** CSS (background-color) property. */
+
+ .color-demo{
+
+ }
+
+ .solid-bg{
+    background-color: blue;
+ }
