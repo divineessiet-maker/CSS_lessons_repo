@@ -31,10 +31,42 @@ h2 ~ p{
 } */
  /* **** CSS (background-color) property. */
 
- .color-demo{
-
- }
-
+ /* .color-demo{
+    padding: 30px;
+text-align: center; */
+/* color:antiquewhite; */
+/* margin:50px auto; */
+ /* } */
+/* 
  .solid-bg{
-    background-color: blue;
- }
+background:linear-gradient(to top, red, blue)
+ } */
+
+ /* ** Linear Gradient IN CSS */
+ /* A linear gradiebt is a type of image defined in CSS that creates a smooth, continuous, transition btw two , or more colors along a straight line.
+ ! [NOTE] it is a powerful, flexible and performant way add colorful backgrounds to elements without needing to use external images files (like JPEGs or PNGs).
+  */
+
+  /* .gradient-bg{
+    background:linear-gradient(to left, red ,blue, yellow) ; */
+  /* } */
+  /* .simple-image{
+    background-image: url('view.jpg');
+
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat ;
+  } */
+
+  body{
+    padding: 0;
+    margin: 0;
+    background-image: url('view.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+  }
+   h2,p{
+    color: rgb(233, 228, 228)
+  }
