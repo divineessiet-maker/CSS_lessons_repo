@@ -58,7 +58,7 @@ background:linear-gradient(to top, red, blue)
     background-repeat: no-repeat ;
   } */
 
-  body{
+  /* body{
     padding: 0;
     margin: 0;
     background-image: url('view.jpg');
@@ -69,4 +69,11 @@ background:linear-gradient(to top, red, blue)
   }
    h2,p{
     color: rgb(233, 228, 228)
+  } */
+
+  body{
+    font-family: Open sans, sans-serif;
+    /* line-height, controls the vertical space btw lines of text */
+    line-height: 1.6;
+    background-color: #A3BAA7;
   }
