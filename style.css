@@ -71,67 +71,67 @@ background:linear-gradient(to top, red, blue)
     color: rgb(233, 228, 228)
   } */
 
-  body{
+  /* body{
     font-family: Open sans, sans-serif;
     /* line-height, controls the vertical space btw lines of text */
-    line-height: 1.6;
+    /* line-height: 1.6;
     background-color: hwb(53 78% 15%);
     max-width: 800px;
     padding: 50px;
-  }
+  } */
 
-  h1{
+  /* h1{
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     color:#0c4e91;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 50px;
-  }
+  } */
 
-  .example-container{
+  /* .example-container{
     background: rgb(226, 219, 219);
     padding: 20px;
     margin: 20px 0;
     border-radius: 50px;
-  }
+  } */
 
 
-  .font-family-example{
+  /* .font-family-example{
     font-family:Georgia,  'Times New roman', Times, serif;
     font-size: 1.2em;
   }
 
-  .font-sizing{
-    font-size: 1.5rem;
+  .font-sizing{ */
+    /* font-size: 1.5rem;
     font-weight: 400;
     font-style:italic;
-  }
-  .colorful-text{
+  } */
+  /* .colorful-text{
     color: #e74c3c;
     background-color: #fdeaea;
     padding: 10px;
     border-radius: 5px;
-  }
-  .aligned-text{
+  } */
+  /* .aligned-text{
     text-align: justify;
     color:#0c4e91
 
-  }
+  } */
 
-  .decorated-text{
+  /* .decorated-text{
     text-decoration:underline dotted #3498db ;
     text-transform:capitalize ;
-  }
+  } */
 
-  .spaced-text{
+  /* .spaced-text{
     letter-spacing:2px ;
     line-height: 2;
     background-color: beige;
     padding: 15px;
-  }
+  } */
 
-  .tight-text{
+  /* .tight-text{
     letter-spacing: -0.5px;
     font-weight: bold;
-    }
+    }  */
