@@ -135,3 +135,48 @@ background:linear-gradient(to top, red, blue)
     letter-spacing: -0.5px;
     font-weight: bold;
     }  */
+
+
+
+
+    .box{
+      background-color: rgb(241, 15, 15);
+      width: 300px;
+      margin: 10px;
+      padding: 20px;
+      border: 20px double rgb(235, 248, 235);
+      height: 100px;
+      color: aliceblue;
+    }
+    h1{
+      color: red;
+    }
+
+    .card{
+      width: 330px;
+      padding-top: 10px;
+      padding-left: 5px;
+      padding-bottom: 40px;
+      padding-right: 5px;
+
+
+      margin-top:20px ;
+      margin-right: 50px;
+      margin-bottom: 10px;
+      margin-left: 9px;
+      border: 20px double white;
+      color: beige;
+
+
+      background: red;
+    }
+    .smart-box{
+      width: 300px;
+      padding: 20px;
+      border: 20px double red;
+      background: white;
+      box-sizing: border-box;
+      margin: 16px;
+    }
+
+    
